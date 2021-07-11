@@ -1,10 +1,12 @@
 **256位的lfsr**
 
-`#include <iostream>
+```c#
+#include <iostream>
 #include <stdlib.h>
 #include <bitset>
 #define n 7  
-using namespace std;
+using namespace std
+
 int main()
 {
 	system("title = LFSR");
@@ -36,4 +38,7 @@ int main()
 	cout << "输出序列为：" <<s2<< endl;
 	system("pause");
 	return 0;
+
 }`
+```
+
