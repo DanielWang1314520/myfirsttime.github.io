@@ -1,8 +1,6 @@
 **MMN排队问题**
 
-```
-```
-
+```python
 `# -*- coding: utf-8 -*-
 """
 Created on Sat May 29 16:43:05 2021
@@ -49,5 +47,7 @@ if __name__=="__main__":
     res_int = int(result)
     print("\n计算的队长结果为：",result,"\n")
     print("\n四舍五入为：",res_int,"\n")`
-
 ```
+
+
+
